@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.d12a5979.chunk.css",
-  "main.js": "/static/js/main.419d3410.chunk.js",
-  "main.js.map": "/static/js/main.419d3410.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/static/js/1.fa92c112.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-  "static/css/main.d12a5979.chunk.css.map": "/static/css/main.d12a5979.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.ed33dc2eb2d0b432d46512416aaf8daf.js": "/precache-manifest.ed33dc2eb2d0b432d46512416aaf8daf.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/react-demo-2019-1-26/build/static/css/main.d12a5979.chunk.css",
+  "main.js": "/react-demo-2019-1-26/build/static/js/main.419d3410.chunk.js",
+  "main.js.map": "/react-demo-2019-1-26/build/static/js/main.419d3410.chunk.js.map",
+  "static/js/1.fa92c112.chunk.js": "/react-demo-2019-1-26/build/static/js/1.fa92c112.chunk.js",
+  "static/js/1.fa92c112.chunk.js.map": "/react-demo-2019-1-26/build/static/js/1.fa92c112.chunk.js.map",
+  "runtime~main.js": "/react-demo-2019-1-26/build/static/js/runtime~main.852822ed.js",
+  "runtime~main.js.map": "/react-demo-2019-1-26/build/static/js/runtime~main.852822ed.js.map",
+  "static/media/logo.svg": "/react-demo-2019-1-26/build/static/media/logo.5d5d9eef.svg",
+  "static/css/main.d12a5979.chunk.css.map": "/react-demo-2019-1-26/build/static/css/main.d12a5979.chunk.css.map",
+  "index.html": "/react-demo-2019-1-26/build/index.html",
+  "precache-manifest.bff585beac626808a34139402644f924.js": "/react-demo-2019-1-26/build/precache-manifest.bff585beac626808a34139402644f924.js",
+  "service-worker.js": "/react-demo-2019-1-26/build/service-worker.js"
 }
